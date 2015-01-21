@@ -1,2 +1,4 @@
 # r10k-practice
-prictise r10k with puppet
+Prictise r10k with puppet.
+
+Change with the first git pull.
